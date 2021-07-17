@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Jan",
+      "lastName": "Polski",
+      "age": 67
+    },
+    {
+      "id": 2,
+      "firstName": "Jacek",
+      "lastName": "Placek",
+      "age": 43
+    },
+    {
+      "id": 3,
+      "firstName": "Tomasz",
+      "lastName": "Górski",
+      "age": 28
+    },
+    {
+      "firstName": "Konrad",
+      "lastName": "Plichta",
+      "age": 23,
+      "id": 4
+    }
+  ]
+}
